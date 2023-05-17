@@ -12,7 +12,7 @@
 
 -- 📝 I write these articles **Computational chemistry or technologies used in computational biology (eg, protein-ligand docking, QSAR, virtual screening, etc.), natural language processing (text analysis, machine translation, chatbot design, etc.), computer vision technology using image segmentation Fields, applied genetic algorithms**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> **Academia**
 <p align="left">
 </p>
 
