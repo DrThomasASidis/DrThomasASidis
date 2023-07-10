@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Lab**
 
-- 🌱 I’m currently research **Natural language Processing, Machine translation, Syntactic Analysis, Neural network, Transformer**
+- 🌱 I’m currently research **Natural language Processing, Machine translation, Syntactic Analysis, Neural network, Information Retrieval, Sentiment Analysis, Spoken Dialogue Systems, Knowledge Representation and Reasoning**
 
 - 💬 Ask me about **AI**
 
