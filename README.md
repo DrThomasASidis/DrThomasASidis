@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently research **Natural language Processing, Machine translation, Syntactic Analysis, Neural network, Information Retrieval, Sentiment Analysis, Spoken Dialogue Systems, Knowledge Representation and Reasoning**
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **AI, NLP, NLU, Machine Translation, Neural Networks**
 
 - 🗯 I use languages like **Python, R, Scala, SQL, Julia, MatLab, LaTex**
 
