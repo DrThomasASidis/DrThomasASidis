@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **AI, NLP, NLU, Machine Translation, Neural Networks**
 
-- 🗯 I use languages like **Python, R, Scala, SQL, Julia, MatLab, LaTex**
+- 🗯 I use languages like **Python, R, Scala, SQL, Julia, MatLab, LaTex(+If you think about natural languages, I can speak English, German, Italian, Japanese.)**
 
 - 📝 I write these articles **Computational chemistry or technologies used in computational biology (eg, protein-ligand docking, QSAR, virtual screening, etc.), natural language processing (text analysis, machine translation, chatbot design, etc.), computer vision technology using image segmentation Fields, applied genetic algorithms**
 
