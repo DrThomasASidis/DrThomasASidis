@@ -12,7 +12,7 @@
 
 - 📝 I write these articles **Computational chemistry or technologies used in computational biology (eg, protein-ligand docking, QSAR, virtual screening, etc.), natural language processing (text analysis, machine translation, chatbot design, etc.), computer vision technology using image segmentation Fields, applied genetic algorithms**
 
-- 🤝 If you Want to know more about my research or Programming Please use: **Research: ResearchGate, Academia, Elsevier, ACS, NCBI / Programming: Kaggle, HuggingFace**
+- 🤝 If you Want to know more about my research or Programming Please use: **Research: ResearchGate, Academia, Elsevier, ACS, NCBI, ACM / Programming: Kaggle, HuggingFace**
 
 <p align="left">
 </p>
